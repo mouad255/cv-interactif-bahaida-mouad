@@ -1,4 +1,4 @@
-
+ 
 
 
 console.log("JavaScript chargé correctement pour le CV de MOUAD.");
@@ -81,3 +81,4 @@ if (contactButton) {
         alert("Merci pour votre intérêt ! 👋\nDescendez jusqu'au formulaire de contact pour m'envoyer un message.");
     });
 }
+
